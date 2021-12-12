@@ -25,13 +25,13 @@
 | [3: MVVM](https://youtu.be/--qKOhdgJAs) | - | [L3](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture3) | [In Korean](https://velog.io/@sunnysideup/Lecture-3-MVVM) | - | - |
 | [4: More MVVM enum Optionals](https://youtu.be/oWZOFSYS5GE) | - | [L4](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture4) | [In Korean](https://velog.io/@sunnysideup/Lecture-4-Memorize-Game-Logic)| [Reading 2](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/Reading%202.pdf)<br>[Programming 2](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/Assignment%202.pdf)|  [A2](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Solutions/Assignment2)<br>[blog](https://velog.io/@sunnysideup/Week2-Reading-Assignment)|
 | [5: Properties Layout @ViewBuilder](https://www.youtube.com/watch?v=ayQl_F_uMS4) | - | [L5](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture5) | [In Korean](https://velog.io/@sunnysideup/Lecture-5-Properties-Layout-ViewBuilder) | - | - |
-| [6: Protocols Shapes](https://www.youtube.com/watch?v=Og9gXZpbKWo) | - | [L6](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture6) | [In Korean](https://velog.io/@sunnysideup/Lecture-6-Protocol-Shapes-elyhxnb8) | [Reading Assignment 3](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/reading_3_0.pdf)<br>[Programming Assignment 3](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_3_0.pdf) | [A3](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Solutions/Assignment3)<br>[blog](https://velog.io/@sunnysideup/Week-3-Assignment-Reading) |
+| [6: Protocols Shapes](https://www.youtube.com/watch?v=Og9gXZpbKWo) | - | [L6](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture6) | [In Korean](https://velog.io/@sunnysideup/Lecture-6-Protocol-Shapes-elyhxnb8) | [Reading 3](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/reading_3_0.pdf)<br>[Programming 3](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_3_0.pdf) | [A3](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Solutions/Assignment3)<br>[blog](https://velog.io/@sunnysideup/Week-3-Assignment-Reading) |
 | [7: ViewModifier Animation](https://youtu.be/PoeaUMGAx6c) | - | [L7](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture7) | [In Korean](https://velog.io/@sunnysideup/Lecture7-ViewModifier-Animation) | - | - |
-| [8: Animation Demo](https://youtu.be/-N1UR7Y105g) | [L7+L8 Demo Code](https://web.stanford.edu/class/cs193p/Spring2021/MemorizeL8.zip) | [L8](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture8) | [In Korean](https://velog.io/@sunnysideup/Lecture-8-Animation-Demonstration) | [Programming Assignment 4](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_4_0.pdf) | [A4](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Solutions/Assignment4)<br>[blog](https://velog.io/@sunnysideup/Week4-Assignment) |
+| [8: Animation Demo](https://youtu.be/-N1UR7Y105g) | [L7+L8 Demo Code](https://web.stanford.edu/class/cs193p/Spring2021/MemorizeL8.zip) | [L8](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture8) | [In Korean](https://velog.io/@sunnysideup/Lecture-8-Animation-Demonstration) | [Programming 4](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_4_0.pdf) | [A4](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Solutions/Assignment4)<br>[blog](https://velog.io/@sunnysideup/Week4-Assignment) |
 | [9: EmojiArt Drag/Drop](https://youtu.be/eNS5EzgK3lY) | - | [L9](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture9) | [In Korean](https://velog.io/@sunnysideup/Lecture-9-EmojiArt-Drag-and-Drop-Multithreading) | - | - |
-| [10: Gestures](https://youtu.be/iszjyoo3SYI) | [L9+L10 Demo Code](https://web.stanford.edu/class/cs193p/Spring2021/EmojiArtL10.zip) | [L10](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture10) | [In Korean](https://velog.io/@sunnysideup/Lecture-10-Multithreading-Demo-Gestures) | [Programming Assignment 5](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_5_0.pdf) | [A5](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Solutions/Assignment5)<br>[blog](https://velog.io/@sunnysideup/Week-5-Assignment) |
+| [10: Gestures](https://youtu.be/iszjyoo3SYI) | [L9+L10 Demo Code](https://web.stanford.edu/class/cs193p/Spring2021/EmojiArtL10.zip) | [L10](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture10) | [In Korean](https://velog.io/@sunnysideup/Lecture-10-Multithreading-Demo-Gestures) | [Programming 5](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_5_0.pdf) | [A5](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Solutions/Assignment5)<br>[blog](https://velog.io/@sunnysideup/Week-5-Assignment) |
 | [11: Persistence Error Handling](https://youtu.be/pT5yiBu2xbU) |  - | [L11](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture11) |[In Korean](https://velog.io/@sunnysideup/Lecture-11-Error-Handling-Persistence) | - | - |
-| [12: Binding Sheet Navigation EditMode](https://youtu.be/s3tMkz1clOA) | [L11+L12 Demo Code](https://web.stanford.edu/class/cs193p/Spring2021/EmojiArtL12.zip) | [L12](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture12) | [In Korean](https://velog.io/@sunnysideup/Lecture-12-Bindings-Sheet-Navigation-EditMode) | [Programming Assignment 6](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_6.pdf) | [A6](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Solutions/Assignment6)<br>[blog](https://velog.io/@sunnysideup/Week-6-Assignment) |
+| [12: Binding Sheet Navigation EditMode](https://youtu.be/s3tMkz1clOA) | [L11+L12 Demo Code](https://web.stanford.edu/class/cs193p/Spring2021/EmojiArtL12.zip) | [L12](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture12) | [In Korean](https://velog.io/@sunnysideup/Lecture-12-Bindings-Sheet-Navigation-EditMode) | [Programming 6](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_6.pdf) | [A6](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Solutions/Assignment6)<br>[blog](https://velog.io/@sunnysideup/Week-6-Assignment) |
 | [13: Publisher More Persistence](https://youtu.be/wX3ruVLlWPg) | - | [L13](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture13) |[In Korean](https://velog.io/@sunnysideup/Lecture-13-Publisher-More-Persistence) | - | - |
 | [14: Document Architecture](https://youtu.be/Ou25reI71zU) | [L13+L14 Demo Code](https://web.stanford.edu/class/cs193p/Spring2021/EmojiArtL14.zip) | [L14](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture14) | [In Korean](https://velog.io/@sunnysideup/Lecture-14-Document-Architecture) | - | - |
 | [15: UIKit Integration](https://youtu.be/ba7sJ74vDtA) | - | [L15](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture15) |[In Korean](https://velog.io/@sunnysideup/Lecture15-UIKit-Integration) | -| - |
@@ -45,7 +45,11 @@
 ## About Me and this Repo
 - hope this section helps you if you're thinking about taking CS193p
 - btw, the course and Professor Hegarty is amazing👏
- 
+- 한글 버전은 [바로 여기!](https://velog.io/@sunnysideup/Stanford-CS193p-Spring-2021)
+
+<br>
+
+
 ### # My programming background when I dived into this course
 - knew C and Python and could do really basic programming but not that proficient in neither
 - did not major Computer Science in college
@@ -97,9 +101,15 @@
 <br>
 
 ### # Assignment 5
-![](https://images.velog.io/images/sunnysideup/post/2b796af9-5317-4763-a08f-58c767dc0a4f/Simulator%20Screen%20Recording%20-%20iPad%20mini%20(6th%20generation)%20-%202021-12-12%20at%2021.28.31.gif)
+- supposed to show in landscape mode but my gif wouldn't load so here goes portrait mode...!
 
-![](https://images.velog.io/images/sunnysideup/post/d363efe5-b1c6-473b-9aa5-b3d8b8633e66/Simulator%20Screen%20Recording%20-%20iPad%20mini%20(6th%20generation)%20-%202021-12-12%20at%2021.29.24.gif)
+![](https://images.velog.io/images/sunnysideup/post/e71c47fa-996b-4505-a230-4177c2db0d2c/Simulator%20Screen%20Shot%20-%20iPad%20mini%20(6th%20generation)%20-%202021-12-13%20at%2001.24.50.png)
+
+![](https://images.velog.io/images/sunnysideup/post/d1672d84-b763-4c66-a060-fc516cf067c8/Simulator%20Screen%20Recording%20-%20iPad%20Pro%20(9.7-inch)%20-%202021-12-13%20at%2001.43.59.gif)
+
+![](https://images.velog.io/images/sunnysideup/post/1b224eb0-e8f2-4a24-a5cf-ef40293fe51b/Simulator%20Screen%20Recording%20-%20iPad%20Pro%20(9.7-inch)%20-%202021-12-13%20at%2001.46.59.gif)
+
+![](https://images.velog.io/images/sunnysideup/post/71d22796-a2a0-4a26-9e55-a2ac01ed0a19/Simulator%20Screen%20Recording%20-%20iPad%20Pro%20(9.7-inch)%20-%202021-12-13%20at%2001.48.51.gif)
 
 <br>
 
@@ -108,7 +118,10 @@
 
 ![](https://images.velog.io/images/sunnysideup/post/827c9700-75d7-4edd-a5ed-f91641c49aad/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2021.33.59.gif)
 
+
 ![](https://images.velog.io/images/sunnysideup/post/db2d7900-bd9b-417d-88a4-b818bd36f72e/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2021.34.27.gif)
+
+
 
 <br>
 
