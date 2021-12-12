@@ -4,7 +4,7 @@
 
 <br>
 
-### Table of Contents
+## Table of Contents
 [Course Overall](#cs193p-spring2021)
 <br>
 [About Me and this Repo](#about-me-and-this-repo)
@@ -17,7 +17,7 @@
 
 <br>
 
-## Course Overall
+# Course Overall
 | Lecture | Demo Code | My Lecture <br>Follow-along Code |My Notes | Assignment(s) | My Solutions |
 | :-----: | :-------: | :---: | :------: | :-----------: | :----------: |
 | [1: Getting Started with SwiftUI](https://youtu.be/bqu6BquVi2M) | - | [L1](https://github.com/skkimeo/CS193p-Spring2021/tree/main/Follow-along-codes/Lecture1) | [In Korean](https://velog.io/@sunnysideup/Lecture-1-Getting-started-with-SwiftUI) | - | - |
@@ -42,7 +42,7 @@
 
 <br>
 
-## About Me and this Repo
+# About Me and this Repo
 - hope this section helps you if you're thinking about taking CS193p
 - btw, the course and Professor Hegarty is amazing👏
 - 한글 버전은 [바로 여기!](https://velog.io/@sunnysideup/Stanford-CS193p-Spring-2021)
@@ -50,7 +50,7 @@
 <br>
 
 
-### # My programming background when I dived into this course
+## # My programming background when I dived into this course
 - knew C and Python and could do really basic programming but not that proficient in neither
 - did not major Computer Science in college
 - knew basic algorithm and data structure
@@ -61,7 +61,7 @@
 
 <br>
 
-### # How long it took and how I studied
+## # How long it took and how I studied
 - this is just to SHARE my experience, this is NOT the best way or anything
 - I think it took me about 8 ~ 10 weeks, studided 6-8 hours probably at least 5 days a week
 - Listened to the lecture(multiple times if needed) -> re-did the lecture codes by myself -> organinzed what I learned on my blog -> did the assignment -> organized what I learned again on the blog
@@ -69,38 +69,38 @@
 
 <br>
 
-## Solution ScreenShots
+# Solution ScreenShots
 - My solutions probably have a bug or two...or maybe millions 😂
 - and they are dirty...I'll try 🤥 to refactor them someday
 - for some I did at least a few of the bonuses(probably upto assignment 3), others I didn't
 
 <br>
 
-### # Assignment 1
+## # Assignment 1
 ![](https://images.velog.io/images/sunnysideup/post/17cc8937-eba9-429d-8d31-268cb17217ea/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2020.22.47.gif)
 
 <br>
 
-### # Assignment 2
+## # Assignment 2
 ![](https://images.velog.io/images/sunnysideup/post/6ed07d26-47c1-4c35-b63b-4e6b048e4d6d/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2020.43.32.gif)
 
 <br>
 
-### # Assignment 3
+## # Assignment 3
 - I used the code [here](https://stackoverflow.com/a/62600465) for the squiggle shape 
 
 ![](https://images.velog.io/images/sunnysideup/post/a7a3bbaa-3ada-4a89-b959-3f917dd0c72d/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2020.41.48.gif)
 
 <br>
 
-### # Assignment 4
+## # Assignment 4
 - This is probably incomplete 
 
 ![](https://images.velog.io/images/sunnysideup/post/ac4e0311-f40a-42ce-bbfb-31fda4f06cbc/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2020.57.32.gif)
 
 <br>
 
-### # Assignment 5
+## # Assignment 5
 - supposed to show in landscape mode but my gif wouldn't load so here goes portrait mode...!
 
 ![](https://images.velog.io/images/sunnysideup/post/e71c47fa-996b-4505-a230-4177c2db0d2c/Simulator%20Screen%20Shot%20-%20iPad%20mini%20(6th%20generation)%20-%202021-12-13%20at%2001.24.50.png)
@@ -113,7 +113,7 @@
 
 <br>
 
-### # Assignment 6
+## # Assignment 6
 ![](https://images.velog.io/images/sunnysideup/post/02bf0a67-a215-4168-a487-a6ee4cd35479/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2021.33.37.gif)
 
 ![](https://images.velog.io/images/sunnysideup/post/827c9700-75d7-4edd-a5ed-f91641c49aad/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2021.33.59.gif)
@@ -125,7 +125,7 @@
 
 <br>
 
-## Notes on Final Project
+# Notes on Final Project
 - I did some googling because there weren't any slides or assignment guides posted on the cs193p site, and this is what I found
 - to sum up, it's up to you!
 - as for me, I'm currently on a team project and I felt that it could serve as my Final Project for CS193p as well
