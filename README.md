@@ -1,4 +1,4 @@
-# CS193p-Spring2021
+# Stanford CS193p Spring 2021
 - This repo contains my notes(in Korean) and assignment solutions following Stanford's CS193p Spring 2021 along with lecture materials 
 - All lecture materials are from the [cs193p site by Stanford](https://cs193p.sites.stanford.edu)
 
