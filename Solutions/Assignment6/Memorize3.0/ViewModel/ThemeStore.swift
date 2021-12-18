@@ -11,7 +11,6 @@ import SwiftUI
 // 1. added from the RemovedSection
 // 2. added from the addEmojisSection
 
-
 struct Theme: Codable, Identifiable, Hashable {
     var name: String
     var emojis: String
@@ -68,7 +67,6 @@ class ThemeStore: ObservableObject {
     
     private func storeInUserDefaults() {
         UserDefaults.standard.set(try? JSONEncoder().encode(themes), forKey: userDefaultsKey)
-//        UserDefaults.standard.set(try? JSONEncoder().encode([Theme]()), forKey: userDefaultsKey)
     }
     
     private func restoreFromUserDefaults() {

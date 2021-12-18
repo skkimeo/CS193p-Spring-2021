@@ -7,11 +7,13 @@
 ## Table of Contents
 [Course Overall](#cs193p-spring2021)
 <br>
-[About Me and this Repo](#about-me-and-this-repo)
-<br>
 [Solution Screenshots](#solution-screenshots)
 <br>
+[Swift/SwiftUI Updates after the course](#swiftswiftui-updates-after-the-course)
+<br>
 [Notes on Final Project](#notes-on-final-project)
+<br>
+[About Me and this Repo (한글)](#about-me-and-this-repo)
 
 
 
@@ -42,33 +44,6 @@
 
 <br>
 
-# About Me and this Repo
-- hope this section helps you if you're thinking about taking CS193p
-- btw, the course and Professor Hegarty is amazing👏
-- 한글 버전은 [바로 여기!](https://velog.io/@sunnysideup/Stanford-CS193p-Spring-2021)
-
-<br>
-
-
-## # My programming background when I dived into this course
-- knew C and Python and could do really basic programming but not that proficient in neither
-- did not major Computer Science in college
-- knew basic algorithm and data structure
-  - just enough to take coding tests for jobs
-- definitelty not familiar with OOP(read a book about it, but literally no experience)
-- learned basic Swift from [100days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) just before taking this course  
-  - but only completed the language part(upto day 15?)
-
-<br>
-
-## # How long it took and how I studied
-- this is just to SHARE my experience, this is NOT the best way or anything
-- I think it took me about 8 ~ 10 weeks, studided 6-8 hours probably at least 5 days a week
-- Listened to the lecture(multiple times if needed) -> re-did the lecture codes by myself -> organinzed what I learned on my blog -> did the assignment -> organized what I learned again on the blog
-- for me, animations were the first bump and multithreading was also tough but watching the lecture over and over again helped(not sure though 'cause it's still tough 🤣)
-
-<br>
-
 # Solution ScreenShots
 - My solutions probably have a bug or two...or maybe millions 😂
 - and they are dirty...I'll try 🤥 to refactor them someday
@@ -94,14 +69,14 @@
 <br>
 
 ## # Assignment 4
-- This is probably incomplete 
+- The card dealing animation needs some enhancement...
 
 ![](https://images.velog.io/images/sunnysideup/post/ac4e0311-f40a-42ce-bbfb-31fda4f06cbc/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2020.57.32.gif)
 
 <br>
 
 ## # Assignment 5
-- supposed to show in landscape mode but my gif wouldn't load so here goes portrait mode...!
+- supposed to show in landscape mode but my gif wouldn't load so here goes portrait mode!
 
 ![](https://images.velog.io/images/sunnysideup/post/e71c47fa-996b-4505-a230-4177c2db0d2c/Simulator%20Screen%20Shot%20-%20iPad%20mini%20(6th%20generation)%20-%202021-12-13%20at%2001.24.50.png)
 
@@ -114,14 +89,18 @@
 <br>
 
 ## # Assignment 6
-![](https://images.velog.io/images/sunnysideup/post/02bf0a67-a215-4168-a487-a6ee4cd35479/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2021.33.37.gif)
+![](https://images.velog.io/images/sunnysideup/post/dd39a815-0329-4796-b73b-9eac6e245d9a/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-18%20at%2022.46.35.gif)
 
 ![](https://images.velog.io/images/sunnysideup/post/827c9700-75d7-4edd-a5ed-f91641c49aad/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2021.33.59.gif)
 
 
 ![](https://images.velog.io/images/sunnysideup/post/db2d7900-bd9b-417d-88a4-b818bd36f72e/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-12-12%20at%2021.34.27.gif)
 
+<br>
 
+# Swift/SwiftUI Updates after the Course 
+- enums with associated data conforms to Codable automatically
+- 2020 Core Data : sheets now automatically share the same environment of their root view 
 
 <br>
 
@@ -141,3 +120,8 @@
 ![](https://images.velog.io/images/sunnysideup/post/7d61b7ec-efb4-48e2-abee-f915c4ebc2f1/Stanford-CS193p-Spring-2016-Lecture12-Slides8.jpg)
 ![](https://images.velog.io/images/sunnysideup/post/a3de0f28-2a51-4fc5-9ea1-34cba3463948/Stanford-CS193p-Spring-2016-Lecture12-Slides9.jpg)
 ![](https://images.velog.io/images/sunnysideup/post/6500e2f5-28ed-410d-a9e5-e936d9190098/Stanford-CS193p-Spring-2016-Lecture12-Slides10.jpg)
+
+
+# About Me and this Repo
+- click [here]() if you'd like to know about my programming background when I dived into this course, how I studied etc.
+- 한글 소개는 [바로 여기!](https://velog.io/@sunnysideup/Stanford-CS193p-Spring-2021)
