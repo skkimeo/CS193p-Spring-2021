@@ -123,5 +123,5 @@
 
 
 # About Me and this Repo
-- click [here]() if you'd like to know about my programming background when I dived into this course, how I studied etc.
+- click [here](https://github.com/skkimeo/CS193p-Spring-2021/tree/main/Intro) if you'd like to know about my programming background when I dived into this course, how I studied etc.
 - 한글 소개는 [바로 여기!](https://velog.io/@sunnysideup/Stanford-CS193p-Spring-2021)
